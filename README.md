@@ -6,7 +6,7 @@
 <h3>:octocat: My GitHub Statistics</h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afsdari0&show_icons=true&theme=radical&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsdari0&layout=compact&theme=radical&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFS12&show_icons=true&theme=radical&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFS12&layout=compact&theme=radical&langs_count=8)
 
 <!--
 <h3>:octocat: Julia's GitHub Statistics</h3>
